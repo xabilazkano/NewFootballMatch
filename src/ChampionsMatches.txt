@@ -1,0 +1,11 @@
+Chelsea::Arsenal::2::1
+ManchesterCity::ManchesterUnited::3::4
+Liverpool::Tottenham::1::1
+Liverpool::ManchesterUnited::0::0
+Chelsea::ManchesterUnited::0::0
+RealMadrid::Barcelona::0::0
+RealMadrid::Barcelona::5::0
+Touring::Oiartzun::0::4
+Usurbil::Oiartzun::2::4
+RealSociedad::Sevilla::0::0
+Levante::Getafe::0::0

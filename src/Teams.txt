@@ -1,0 +1,15 @@
+RealMadrid::Solari
+Touring::Carlos
+Barcelona::Valverde
+Oiartzun::Ekaitz
+Usurbil::XabierLazkano
+RealSociedad::Garitano
+Sevilla::Machin
+Levante::Sergio
+Getafe::Francisco
+Chelsea::Sarri
+Arsenal::Wenger
+ManchesterCity::Guardiola
+ManchesterUnited::Mourinho
+Liverpool::Klopp
+Tottenham::Pochetino

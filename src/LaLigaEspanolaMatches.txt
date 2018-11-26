@@ -1,0 +1,11 @@
+RealMadrid::Barcelona::5::0
+Touring::Oiartzun::0::4
+Usurbil::Oiartzun::2::4
+RealSociedad::Sevilla::0::0
+Levante::Getafe::0::0
+RealMadrid::Barcelona::5::0
+Touring::RealMadrid::0::4
+Usurbil::Oiartzun::2::4
+RealSociedad::Sevilla::0::0
+Levante::Getafe::0::0
+RealMadrid::Barcelona::5::0
