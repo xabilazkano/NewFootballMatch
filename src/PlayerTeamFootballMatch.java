@@ -46,7 +46,7 @@ public class PlayerTeamFootballMatch {
 			// We open a loop for each argument
 			for (int i=0;i<args.length;i++) {
 				// We create a file object with a previously created text file
-				FileArray[i]=new File("C:\\Users\\ik013043z1\\eclipse-workspace\\FootballMatch\\src\\" + args[i] + "Matches.txt");
+				FileArray[i]=new File("C:\\Users\\ik013043z1\\eclipse-workspace\\FootballMatch3\\src\\" + args[i] + "Matches.txt");
 				try {
 					// We create a scanner object with the previously created file object
 					ScannerArray[i] = new Scanner(FileArray[i]);
